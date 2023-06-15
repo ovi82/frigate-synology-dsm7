@@ -1,4 +1,4 @@
-ARG FRIGATE_IMAGE=blakeblackshear/frigate:stable
+ARG FRIGATE_IMAGE=blakeblackshear/frigate:0.12.1
 ARG LIBUSB_PKG_VERSION=1.0.24
 ARG LIBUSB_PKG_BUILD=3
 
